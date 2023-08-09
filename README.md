@@ -1,3 +1,9 @@
+## 🙍‍♂️ About me:
+Hello! I'm Ignacio, a passionate and committed developer focused on creating innovative and practical solutions that can have a positive impact on the world.
+
+With a focus on web development and programming, I have experience working with a variety of technologies. I like to stay up-to-date with the latest trends and tools, and I enjoy taking on new challenges in my daily work.
+
+In addition to my work as a developer, I truly enjoy teamwork and collaborating with other developers to create exciting and meaningful projects. I firmly believe that diversity and inclusion are essential for the success of any project, and I'm always looking for ways to get involved in the development community to learn from others and share my experience.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignaciocenni) 
